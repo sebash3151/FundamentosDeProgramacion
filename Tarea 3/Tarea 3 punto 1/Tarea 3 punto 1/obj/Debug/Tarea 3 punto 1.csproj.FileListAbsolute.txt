@@ -1,0 +1,6 @@
+C:\Users\No-tostadora\source\repos\Tarea 3 punto 1\Tarea 3 punto 1\bin\Debug\Tarea 3 punto 1.exe.config
+C:\Users\No-tostadora\source\repos\Tarea 3 punto 1\Tarea 3 punto 1\bin\Debug\Tarea 3 punto 1.exe
+C:\Users\No-tostadora\source\repos\Tarea 3 punto 1\Tarea 3 punto 1\bin\Debug\Tarea 3 punto 1.pdb
+C:\Users\No-tostadora\source\repos\Tarea 3 punto 1\Tarea 3 punto 1\obj\Debug\Tarea 3 punto 1.csprojAssemblyReference.cache
+C:\Users\No-tostadora\source\repos\Tarea 3 punto 1\Tarea 3 punto 1\obj\Debug\Tarea 3 punto 1.exe
+C:\Users\No-tostadora\source\repos\Tarea 3 punto 1\Tarea 3 punto 1\obj\Debug\Tarea 3 punto 1.pdb
