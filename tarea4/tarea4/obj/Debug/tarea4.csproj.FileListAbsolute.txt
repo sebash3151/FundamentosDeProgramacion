@@ -1,0 +1,6 @@
+C:\Users\No-tostadora\source\repos\tarea4\tarea4\bin\Debug\tarea4.exe.config
+C:\Users\No-tostadora\source\repos\tarea4\tarea4\bin\Debug\tarea4.exe
+C:\Users\No-tostadora\source\repos\tarea4\tarea4\bin\Debug\tarea4.pdb
+C:\Users\No-tostadora\source\repos\tarea4\tarea4\obj\Debug\tarea4.csprojAssemblyReference.cache
+C:\Users\No-tostadora\source\repos\tarea4\tarea4\obj\Debug\tarea4.exe
+C:\Users\No-tostadora\source\repos\tarea4\tarea4\obj\Debug\tarea4.pdb
