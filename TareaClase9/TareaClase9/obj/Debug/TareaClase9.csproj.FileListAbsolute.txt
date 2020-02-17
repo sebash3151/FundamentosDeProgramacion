@@ -1,0 +1,6 @@
+C:\Users\No-tostadora\Desktop\TareaClase9\TareaClase9\bin\Debug\TareaClase9.exe.config
+C:\Users\No-tostadora\Desktop\TareaClase9\TareaClase9\bin\Debug\TareaClase9.exe
+C:\Users\No-tostadora\Desktop\TareaClase9\TareaClase9\bin\Debug\TareaClase9.pdb
+C:\Users\No-tostadora\Desktop\TareaClase9\TareaClase9\obj\Debug\TareaClase9.csprojAssemblyReference.cache
+C:\Users\No-tostadora\Desktop\TareaClase9\TareaClase9\obj\Debug\TareaClase9.exe
+C:\Users\No-tostadora\Desktop\TareaClase9\TareaClase9\obj\Debug\TareaClase9.pdb
