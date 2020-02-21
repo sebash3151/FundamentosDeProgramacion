@@ -1,0 +1,7 @@
+C:\Users\b15s03est\Desktop\igvyfyufv\Tarea Feb21\Tarea Feb21\bin\Debug\Tarea Feb21.exe.config
+C:\Users\b15s03est\Desktop\igvyfyufv\Tarea Feb21\Tarea Feb21\bin\Debug\Tarea Feb21.exe
+C:\Users\b15s03est\Desktop\igvyfyufv\Tarea Feb21\Tarea Feb21\bin\Debug\Tarea Feb21.pdb
+C:\Users\b15s03est\Desktop\igvyfyufv\Tarea Feb21\Tarea Feb21\obj\Debug\Tarea Feb21.csprojAssemblyReference.cache
+C:\Users\b15s03est\Desktop\igvyfyufv\Tarea Feb21\Tarea Feb21\obj\Debug\Tarea Feb21.csproj.CoreCompileInputs.cache
+C:\Users\b15s03est\Desktop\igvyfyufv\Tarea Feb21\Tarea Feb21\obj\Debug\Tarea Feb21.exe
+C:\Users\b15s03est\Desktop\igvyfyufv\Tarea Feb21\Tarea Feb21\obj\Debug\Tarea Feb21.pdb
