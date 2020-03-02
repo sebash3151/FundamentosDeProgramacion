@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\TareaBlackjackrara\BlackJackArreglos\BlackJackArreglos\bin\Debug\BlackJackArreglos.exe.config
+C:\Users\user\Downloads\TareaBlackjackrara\BlackJackArreglos\BlackJackArreglos\bin\Debug\BlackJackArreglos.exe
+C:\Users\user\Downloads\TareaBlackjackrara\BlackJackArreglos\BlackJackArreglos\bin\Debug\BlackJackArreglos.pdb
+C:\Users\user\Downloads\TareaBlackjackrara\BlackJackArreglos\BlackJackArreglos\obj\Debug\BlackJackArreglos.csprojAssemblyReference.cache
+C:\Users\user\Downloads\TareaBlackjackrara\BlackJackArreglos\BlackJackArreglos\obj\Debug\BlackJackArreglos.exe
+C:\Users\user\Downloads\TareaBlackjackrara\BlackJackArreglos\BlackJackArreglos\obj\Debug\BlackJackArreglos.pdb
